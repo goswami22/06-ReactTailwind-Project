@@ -1,2 +1,2 @@
-# 06-ReactTailwind-Project
+# 06-React-Tailwind-Project
 -
